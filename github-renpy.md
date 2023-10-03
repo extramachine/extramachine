@@ -7,7 +7,7 @@
 
 ### 2. Clone the repository
 * Download GitHub Desktop
-* In the repository, copy this URL
+* In the repository, click the green "Code" button and copy this URL
 
 ![A screenshot of github underlining the HTTPS link for cloning](http://img4.imagetitan.com/img4/tErIlcllhoK1JVt/26/26_githubclone.png "A screenshot of github underlining the HTTPS link for cloning")
 * In GitHub Desktop go to File -> Clone repository...
